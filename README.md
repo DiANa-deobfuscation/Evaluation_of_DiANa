@@ -6,7 +6,7 @@ Notice that samples in Table.2 and 3 are all in-the-wild O-LLVM obfuscated apps(
 ![avatar](result/1.png)
 ![avatar](result/2.png)
 
-Also, we use a high-level algorithm to formally describe the workflow.(R1/R2) 
+## Also, we use a high-level algorithm to formally describe the workflow.(R1/R2) 
 
 ![avatar](algorithm/chopped_symbolic_execution.png)
 
